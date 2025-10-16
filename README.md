@@ -1,2 +1,2 @@
 # smart_city
-基于大小模型协同的不文明行为智能监控系统
+An intelligent monitoring system for uncivilised behaviour based on the collaboration of large and small models, currently the project is in the development stage
